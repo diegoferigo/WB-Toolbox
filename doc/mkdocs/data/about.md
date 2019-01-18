@@ -2,7 +2,7 @@
 
 It was born from the ashes of @robotology-playground/WBI-Toolbox.
 
-It is used extensively for controllers stored in @robotology-playground/whole-body-controllers.
+It is used extensively for controllers stored in @robotology/whole-body-controllers.
 
 ### Maintainer
 

@@ -1,7 +1,7 @@
 # Install
 
 !!! info "Disclaimer"
-    `WBT` has been widely tested on `Ubuntu 16:04` and `Ubuntu 18.04` with Matlab `R2017b`. If you face any issue either with your OS or Matlab version, please submit an [Issue](https://github.com/robotology/WB-Toolbox/issues).
+    `WBT` has been widely tested on `Ubuntu 16:04` and `Ubuntu 18.04` with Matlab `R2017b`. If you face any issue either with your OS or Matlab version, please submit an [Issue](https://github.com/robotology/wb-toolbox/issues).
 
 ## Requirements
 
@@ -19,7 +19,7 @@
 - [Gazebo Simulator](http://gazebosim.org/)
 - [`gazebo_yarp_plugins`](https://github.com/robotology/gazebo_yarp_plugins)
 - [`qpOASES`](https://github.com/robotology-dependencies/qpOASES/)
-- [`matio`](https://github.com/tbeu/matio/notifications)
+- [`matio`](https://github.com/tbeu/matio)
 - Matlab 7.1+ and Simulink
 
 ## Installation

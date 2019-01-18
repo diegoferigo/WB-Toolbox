@@ -12,14 +12,14 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/robotology/wb-toolbox/master?p=.presentations/WBToolbox2)
 
 !!! quote ""
-    This toolbox allows non-programming experts and researchers approaching _Whole-Body Control_ to more easily develop controllers on either simulated or real `YARP`-based robotic platforms.<br>
-    Develop to deployment time is minimized by exploiting the rich variety of Simulink's toolboxes and its capabilities on rapid prototyping and visual debugging.
+​    This toolbox allows non-programming experts and researchers approaching _Whole-Body Control_ to more easily develop controllers on either simulated or real `YARP`-based robotic platforms.<br>
+​    Develop to deployment time is minimized by exploiting the rich variety of Simulink's toolboxes and its capabilities on rapid prototyping and visual debugging.
 
-`WBT` is a plugin of the dataflow framework [`blockfactory`](https://github.com/robotology/blockfactory). It mainly wraps functionalities of the [`YARP`](https://github.com/robotology/yarp) middleware and the [`iDynTree`](https://github.com/robotology/idyntree) rigid-body dynamics library, providing an interface compatible with dataflow programming. The `WBT` library can be embedded in any C++ framework and run from all the engines supported by [`blockfactory`](https://github.com/robotology/blockfactory), we mainly use and support Simulink by providing a Simulink Library.
+`WBT` is based on the dataflow framework [`blockfactory`](https://github.com/robotology/blockfactory). It mainly wraps functionalities of the [`YARP`](https://github.com/robotology/yarp) middleware and the [`iDynTree`](https://github.com/robotology/idyntree) rigid-body dynamics library, providing an interface compatible with dataflow programming. The `WBT` library can be embedded in any C++ framework and run from all the engines supported by [`blockfactory`](https://github.com/robotology/blockfactory), we mainly use and support Simulink by providing a Simulink Library.
 
 ## Who uses `WBT`?
 
-`WBT` is used extensively in the controllers stored in @robotology-playground/whole-body-controllers.
+`WBT` is used extensively in the controllers stored in @robotology/whole-body-controllers.
 
 This video shows the latest results on the iCub robot achieved in the EU project CoDyCo in which a top level controller implemented with the @robotology/wb-toolbox achieves a running `100 Hz` rate.
 

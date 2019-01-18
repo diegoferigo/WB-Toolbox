@@ -1,9 +1,7 @@
 # Whole-Body Toolbox
 
-[![Build Status (Linux/macOS) (master)](https://img.shields.io/travis/robotology/wb-toolbox/master.svg?logo=travis&label=master)](https://travis-ci.org/robotology/wb-toolbox)
-[![Build Status (Linux/macOS) (devel)](https://img.shields.io/travis/robotology/wb-toolbox/devel.svg?logo=travis&label=devel)](https://travis-ci.org/robotology/wb-toolbox)
-[![Build status (Windows) (master)](https://img.shields.io/appveyor/ci/robotology/wb-toolbox/master.svg?logo=appveyor&label=master)](https://ci.appveyor.com/project/robotology/wb-toolbox)
-[![Build status (Windows) (devel)](https://img.shields.io/appveyor/ci/robotology/wb-toolbox/devel.svg?logo=appveyor&label=devel)](https://ci.appveyor.com/project/robotology/wb-toolbox)
+[![Build Status (master)](https://img.shields.io/travis/robotology/wb-toolbox/master.svg?logo=travis&label=master)](https://travis-ci.org/robotology/wb-toolbox)
+[![Build Status (devel)](https://img.shields.io/travis/robotology/wb-toolbox/devel.svg?logo=travis&label=devel)](https://travis-ci.org/robotology/wb-toolbox)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1c726331d58b4a1ebfba1c25d15f00ad)](https://www.codacy.com/app/diegoferigo/wb-toolbox?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=robotology/wb-toolbox&amp;utm_campaign=Badge_Grade)
 
 [![License](https://img.shields.io/badge/license-LGPL-19c2d8.svg)](https://github.com/robotology/wb-toolbox/blob/master/LICENSE.LGPL2)
@@ -25,7 +23,7 @@ Develop to deployment time is minimized by exploiting the rich variety of Simuli
 
 ## Who uses `WBT`
 
-`WBT` is used extensively in the controllers stored in [robotology-playground/whole-body-controllers](https://github.com/robotology-playground/whole-body-controllers).
+`WBT` is used extensively in the controllers stored in [robotology/whole-body-controllers](https://github.com/robotology/whole-body-controllers).
 
 This video shows the latest results on the iCub robot achieved in the EU project CoDyCo in which a top level controller implemented with the `WBT` achieves a running `100 Hz` rate.
 
@@ -33,7 +31,7 @@ This video shows the latest results on the iCub robot achieved in the EU project
 
 ### Citing this work
 
-Please cite the following publication if you are using WB-Toolbox for your own research and/or robot controllers:
+Please cite the following publication if you are using Whole-Body Toolbox for your own research and/or robot controllers:
 
 > Romano F., Traversaro S., Pucci D., Nori F.<br>
 > **A Whole-Body Software Abstraction layer for Control Design of free-floating Mechanical Systems**<br>
